@@ -23,3 +23,4 @@ The app should include the following features:
 • User can delete  project
 
 # To run the app please run crowd_funding_app.py file
+# made by David Emad Adly
